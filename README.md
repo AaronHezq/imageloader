@@ -8,7 +8,7 @@ ImageLoader.getInstance(context).build();
 ImageLoader.getInstance(context).display(ImageView, imageUrl);
 ImageLoader.getInstance(context).display(ImageView, imageUrl,R.drawable.default_image_id);
 
-需要权限
+需要权限<br/>
 android.permission.INTERNET <br/>
 android.permission.WRITE_EXTERNAL_STORAGE
 
